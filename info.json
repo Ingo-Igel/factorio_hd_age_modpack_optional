@@ -32,7 +32,7 @@
 		"prune_gallery": true,
 		"readme": "README.md",
 		"faq": "FAQ.md",
-		"git_publish_branch": "main",
-		"sync_portal_details": true
+		"sync_portal_details": true,
+		"no_git_push": true
 	}
 }
