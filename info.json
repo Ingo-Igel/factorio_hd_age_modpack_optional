@@ -1,11 +1,11 @@
 {
-    "name": "factorio_hd_age_modpack_optional",
-    "version": "1.1.2",
-    "title": "Factorio HD Age: Modpack (all optional)",
-    "author": "Ingo_Igel",
-    "homepage": "https://github.com/Ingo-Igel",
-    "factorio_version": "2.0",
-    "dependencies": [
+	"name": "factorio_hd_age_modpack_optional",
+	"version": "1.1.2",
+	"title": "Factorio HD Age: Modpack (all optional)",
+	"author": "Ingo_Igel",
+	"homepage": "https://github.com/Ingo-Igel",
+	"factorio_version": "2.0",
+	"dependencies": [
 	"base >= 2.0.23",
 	"space-age >=2.0.23",
 	"factorio_hd_age_modpack_base_game_optional >= 1.0.0",
@@ -24,7 +24,7 @@
 	"? factorio_hd_age_space_age_terrain_gleba >= 0.1.0",
 	"? factorio_hd_age_space_age_terrain_vulcanus >= 0.1.0"
 	],
-    "description": "This modpack bundles all of the Factorio HD Age mods for the Base Game and the Space Age DLC.\nIt doesn't contain any content itself. It only references to the other Factorio HD Age mods as optional dependencies.",
+	"description": "This modpack bundles all of the Factorio HD Age mods for the Base Game and the Space Age DLC.\nIt doesn't contain any content itself. It only references to the other Factorio HD Age mods as optional dependencies.",
 		"package": {
 		"gallery": [
 			".gallery/thumbnail_huge.png"
