@@ -24,5 +24,15 @@
 	"? factorio_hd_age_space_age_terrain_gleba >= 0.1.0",
 	"? factorio_hd_age_space_age_terrain_vulcanus >= 0.1.0"
 	],
-    "description": "This modpack bundles all of the Factorio HD Age mods for the Base Game and the Space Age DLC.\nIt doesn't contain any content itself. It only references to the other Factorio HD Age mods as optional dependencies."
+    "description": "This modpack bundles all of the Factorio HD Age mods for the Base Game and the Space Age DLC.\nIt doesn't contain any content itself. It only references to the other Factorio HD Age mods as optional dependencies.",
+		"package": {
+		"gallery": [
+			".gallery/thumbnail_huge.png"
+		],
+		"prune_gallery": true,
+		"readme": "README.md",
+		"faq": "FAQ.md",
+		"git_publish_branch": "main",
+		"sync_portal_details": true
+	}
 }
