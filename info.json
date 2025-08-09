@@ -30,7 +30,6 @@
 			".gallery/thumbnail_huge.png"
 		],
 		"prune_gallery": true,
-		"readme": "README.md",
 		"faq": "FAQ.md",
 		"sync_portal_details": true,
 		"no_git_push": true
